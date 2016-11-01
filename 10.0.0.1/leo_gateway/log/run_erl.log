@@ -1,0 +1,8 @@
+run_erl [2969] Mon Oct 31 19:51:05 2016
+Args before exec of shell:
+run_erl [2969] Mon Oct 31 19:51:05 2016
+argv[0] = sh
+run_erl [2969] Mon Oct 31 19:51:05 2016
+argv[1] = -c
+run_erl [2969] Mon Oct 31 19:51:05 2016
+argv[2] = exec /usr/local/leofs/1.3.0/leo_gateway/bin/leo_gateway console 

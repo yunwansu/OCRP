@@ -1,0 +1,21 @@
+%% app generated at {2016,8,13} {7,1,13}
+{application,leo_rpc,
+             [{description,"leo rpc library"},
+              {vsn,"0.10.8"},
+              {id,[]},
+              {modules,[leo_rpc,leo_rpc_app,leo_rpc_client_conn,
+                        leo_rpc_client_manager,leo_rpc_client_sup,
+                        leo_rpc_client_utils,leo_rpc_protocol,leo_rpc_server,
+                        leo_rpc_server_listener,leo_rpc_sup]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {included_applications,[]},
+              {env,[{num_of_acceptors,128},
+                    {listen_port,13075},
+                    {listen_timeout,5000},
+                    {max_requests_for_reconnection,64},
+                    {profile,false}]},
+              {maxT,infinity},
+              {maxP,infinity},
+              {mod,{leo_rpc_app,[]}}]}.
+

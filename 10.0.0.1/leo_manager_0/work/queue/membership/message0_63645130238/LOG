@@ -1,0 +1,33 @@
+2016/10/31-21:01:55.191962 7f20fcfc1700                        Version: 2.0.10
+2016/10/31-21:01:55.191985 7f20fcfc1700             Options.comparator: leveldb.InternalKeyComparator
+2016/10/31-21:01:55.191993 7f20fcfc1700      Options.create_if_missing: 1
+2016/10/31-21:01:55.191998 7f20fcfc1700        Options.error_if_exists: 0
+2016/10/31-21:01:55.192003 7f20fcfc1700        Options.paranoid_checks: 0
+2016/10/31-21:01:55.192009 7f20fcfc1700     Options.verify_compactions: 1
+2016/10/31-21:01:55.192014 7f20fcfc1700                    Options.env: 0x7f2120007280
+2016/10/31-21:01:55.192019 7f20fcfc1700               Options.info_log: 0x7f20e8017e20
+2016/10/31-21:01:55.192024 7f20fcfc1700      Options.write_buffer_size: 1541258
+2016/10/31-21:01:55.192030 7f20fcfc1700         Options.max_open_files: 1000
+2016/10/31-21:01:55.192035 7f20fcfc1700            Options.block_cache: 0x7f20e8019120
+2016/10/31-21:01:55.192040 7f20fcfc1700             Options.block_size: 4096
+2016/10/31-21:01:55.192045 7f20fcfc1700       Options.block_size_steps: 16
+2016/10/31-21:01:55.192051 7f20fcfc1700 Options.block_restart_interval: 16
+2016/10/31-21:01:55.192056 7f20fcfc1700            Options.compression: 1
+2016/10/31-21:01:55.192061 7f20fcfc1700          Options.filter_policy: NULL
+2016/10/31-21:01:55.192066 7f20fcfc1700              Options.is_repair: false
+2016/10/31-21:01:55.192071 7f20fcfc1700         Options.is_internal_db: false
+2016/10/31-21:01:55.192076 7f20fcfc1700      Options.total_leveldb_mem: 0
+2016/10/31-21:01:55.192081 7f20fcfc1700  Options.block_cache_threshold: 33554432
+2016/10/31-21:01:55.192086 7f20fcfc1700  Options.limited_developer_mem: false
+2016/10/31-21:01:55.192091 7f20fcfc1700              Options.mmap_size: 0
+2016/10/31-21:01:55.192097 7f20fcfc1700       Options.delete_threshold: 1000
+2016/10/31-21:01:55.192102 7f20fcfc1700       Options.fadvise_willneed: false
+2016/10/31-21:01:55.192107 7f20fcfc1700      Options.tiered_slow_level: 0
+2016/10/31-21:01:55.192112 7f20fcfc1700     Options.tiered_fast_prefix: ./work/queue/membership/message0
+2016/10/31-21:01:55.192118 7f20fcfc1700     Options.tiered_slow_prefix: ./work/queue/membership/message0
+2016/10/31-21:01:55.192123 7f20fcfc1700                         crc32c: hardware
+2016/10/31-21:01:55.192128 7f20fcfc1700                File cache size: 52386033
+2016/10/31-21:01:55.192133 7f20fcfc1700               Block cache size: 54483185
+2016/10/31-21:01:55.192518 7f20fcfc1700 Recovering log #5
+2016/10/31-21:01:55.264473 7f20fcfc1700 Delete type=0 #5
+2016/10/31-21:01:55.264512 7f20fcfc1700 Delete type=3 #4

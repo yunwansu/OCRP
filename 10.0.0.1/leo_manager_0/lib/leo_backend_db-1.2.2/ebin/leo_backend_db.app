@@ -1,0 +1,20 @@
+%% app generated at {2016,8,13} {7,1,12}
+{application,leo_backend_db,
+             [{description,"Leo Backend db"},
+              {vsn,"1.2.2"},
+              {id,"leo_backend_db"},
+              {modules,[leo_backend_db_api,leo_backend_db_app,
+                        leo_backend_db_bitcask,leo_backend_db_eleveldb,
+                        leo_backend_db_ets,leo_backend_db_server,
+                        leo_backend_db_sup]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {included_applications,[]},
+              {env,[{profile,false},
+                    {bitcask_flags,[{expiry_secs,-1},
+                                    {max_file_size,2147483648},
+                                    {merge_window,always}]}]},
+              {maxT,infinity},
+              {maxP,infinity},
+              {mod,{leo_backend_db_app,[]}}]}.
+
