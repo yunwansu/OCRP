@@ -1,0 +1,1 @@
+/usr/local/leofs/1.3.0/leo_storage/avs/object/4.avs_63645213820

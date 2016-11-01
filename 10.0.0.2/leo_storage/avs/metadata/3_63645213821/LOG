@@ -1,0 +1,33 @@
+2016/11/01-19:06:24.251442 7f32c7fcf700                        Version: 2.0.10
+2016/11/01-19:06:24.251478 7f32c7fcf700             Options.comparator: leveldb.InternalKeyComparator
+2016/11/01-19:06:24.251486 7f32c7fcf700      Options.create_if_missing: 1
+2016/11/01-19:06:24.251493 7f32c7fcf700        Options.error_if_exists: 0
+2016/11/01-19:06:24.251499 7f32c7fcf700        Options.paranoid_checks: 0
+2016/11/01-19:06:24.251504 7f32c7fcf700     Options.verify_compactions: 1
+2016/11/01-19:06:24.251510 7f32c7fcf700                    Options.env: 0x7f32e8001c40
+2016/11/01-19:06:24.251516 7f32c7fcf700               Options.info_log: 0x7f32b0015920
+2016/11/01-19:06:24.251522 7f32c7fcf700      Options.write_buffer_size: 1541258
+2016/11/01-19:06:24.251528 7f32c7fcf700         Options.max_open_files: 1000
+2016/11/01-19:06:24.251534 7f32c7fcf700            Options.block_cache: 0x7f32b00148a0
+2016/11/01-19:06:24.251539 7f32c7fcf700             Options.block_size: 4096
+2016/11/01-19:06:24.251545 7f32c7fcf700       Options.block_size_steps: 16
+2016/11/01-19:06:24.251551 7f32c7fcf700 Options.block_restart_interval: 16
+2016/11/01-19:06:24.251556 7f32c7fcf700            Options.compression: 1
+2016/11/01-19:06:24.251562 7f32c7fcf700          Options.filter_policy: NULL
+2016/11/01-19:06:24.251568 7f32c7fcf700              Options.is_repair: false
+2016/11/01-19:06:24.251573 7f32c7fcf700         Options.is_internal_db: false
+2016/11/01-19:06:24.251579 7f32c7fcf700      Options.total_leveldb_mem: 618442752
+2016/11/01-19:06:24.251585 7f32c7fcf700  Options.block_cache_threshold: 33554432
+2016/11/01-19:06:24.251591 7f32c7fcf700  Options.limited_developer_mem: false
+2016/11/01-19:06:24.251597 7f32c7fcf700              Options.mmap_size: 0
+2016/11/01-19:06:24.251602 7f32c7fcf700       Options.delete_threshold: 1000
+2016/11/01-19:06:24.251608 7f32c7fcf700       Options.fadvise_willneed: false
+2016/11/01-19:06:24.251613 7f32c7fcf700      Options.tiered_slow_level: 0
+2016/11/01-19:06:24.251619 7f32c7fcf700     Options.tiered_fast_prefix: /usr/local/leofs/1.3.0/leo_storage/avs/metadata/3
+2016/11/01-19:06:24.251625 7f32c7fcf700     Options.tiered_slow_prefix: /usr/local/leofs/1.3.0/leo_storage/avs/metadata/3
+2016/11/01-19:06:24.251631 7f32c7fcf700                         crc32c: hardware
+2016/11/01-19:06:24.251637 7f32c7fcf700                File cache size: 116655277
+2016/11/01-19:06:24.251643 7f32c7fcf700               Block cache size: 118752429
+2016/11/01-19:06:24.262948 7f32c7fcf700 Recovering log #3
+2016/11/01-19:06:24.363372 7f32c7fcf700 Delete type=0 #3
+2016/11/01-19:06:24.363412 7f32c7fcf700 Delete type=3 #2

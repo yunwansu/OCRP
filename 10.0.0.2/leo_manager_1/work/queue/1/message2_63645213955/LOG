@@ -1,0 +1,31 @@
+2016/11/01-19:05:55.991494 7f9b927cc700                        Version: 2.0.10
+2016/11/01-19:05:55.991524 7f9b927cc700             Options.comparator: leveldb.InternalKeyComparator
+2016/11/01-19:05:55.991531 7f9b927cc700      Options.create_if_missing: 1
+2016/11/01-19:05:55.991537 7f9b927cc700        Options.error_if_exists: 0
+2016/11/01-19:05:55.991541 7f9b927cc700        Options.paranoid_checks: 0
+2016/11/01-19:05:55.991546 7f9b927cc700     Options.verify_compactions: 1
+2016/11/01-19:05:55.991550 7f9b927cc700                    Options.env: 0x7f9bc0007280
+2016/11/01-19:05:55.991555 7f9b927cc700               Options.info_log: 0x7f9b78002550
+2016/11/01-19:05:55.991560 7f9b927cc700      Options.write_buffer_size: 1541258
+2016/11/01-19:05:55.991565 7f9b927cc700         Options.max_open_files: 1000
+2016/11/01-19:05:55.991569 7f9b927cc700            Options.block_cache: 0x7f9b78001920
+2016/11/01-19:05:55.991574 7f9b927cc700             Options.block_size: 4096
+2016/11/01-19:05:55.991578 7f9b927cc700       Options.block_size_steps: 16
+2016/11/01-19:05:55.991583 7f9b927cc700 Options.block_restart_interval: 16
+2016/11/01-19:05:55.991587 7f9b927cc700            Options.compression: 1
+2016/11/01-19:05:55.991592 7f9b927cc700          Options.filter_policy: NULL
+2016/11/01-19:05:55.991596 7f9b927cc700              Options.is_repair: false
+2016/11/01-19:05:55.991600 7f9b927cc700         Options.is_internal_db: false
+2016/11/01-19:05:55.991605 7f9b927cc700      Options.total_leveldb_mem: 0
+2016/11/01-19:05:55.991609 7f9b927cc700  Options.block_cache_threshold: 33554432
+2016/11/01-19:05:55.991614 7f9b927cc700  Options.limited_developer_mem: false
+2016/11/01-19:05:55.991618 7f9b927cc700              Options.mmap_size: 0
+2016/11/01-19:05:55.991623 7f9b927cc700       Options.delete_threshold: 1000
+2016/11/01-19:05:55.991627 7f9b927cc700       Options.fadvise_willneed: false
+2016/11/01-19:05:55.991632 7f9b927cc700      Options.tiered_slow_level: 0
+2016/11/01-19:05:55.991636 7f9b927cc700     Options.tiered_fast_prefix: ./work/queue/1/message2
+2016/11/01-19:05:55.991641 7f9b927cc700     Options.tiered_slow_prefix: ./work/queue/1/message2
+2016/11/01-19:05:55.991645 7f9b927cc700                         crc32c: hardware
+2016/11/01-19:05:55.991650 7f9b927cc700                File cache size: 349482567
+2016/11/01-19:05:55.991655 7f9b927cc700               Block cache size: 351579719
+2016/11/01-19:05:56.320234 7f9b927cc700 Delete type=3 #1
